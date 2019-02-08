@@ -1,7 +1,8 @@
 # JadwalSholat
 Jadwal sholat untuk daerah seluruh indonesia
 
-# PengINSTALLAN
+# PenINSTALLAN
+$ apt update && apt upgrade<br>
 $ pkg install git<br>
 $ git clone https://github.com/KANG-NEWBIE/JadwalSholat<br>
 $ cd JadwalSholat<br>
