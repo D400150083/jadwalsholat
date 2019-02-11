@@ -42,7 +42,7 @@ Sekarang Tgl : {}
 sekarang Jam : {}
 
 Waktu Sholat di kota %s
-	FAJAR		: {}
+	SUBUH		: {}
 	SUNRISE		: {}
 	DZUHUR		: {}
 	ASHAR		: {}
